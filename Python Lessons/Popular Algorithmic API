@@ -1,0 +1,5 @@
+Popular Algorithmic API
+
+Alpaca API: A Python library that provides a simple interface to the Alpaca trading platform.
+Interactive Brokers API: A Python wrapper for the Interactive Brokers API, which allows for trading in multiple markets.
+TD Ameritrade API: A Python wrapper for the TD Ameritrade API, which allows for trading in stocks, options, and ETFs.
